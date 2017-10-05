@@ -4,7 +4,7 @@
   - [Folder Structure](#folder-structure)
 - [License](#license)
 
-## Instalation
+## Installation
 ### Full setup
 
 Some reveal.js features, like external Markdown and speaker notes, require that presentations run from a local web server. The following instructions will set up such a server as well as all of the development tasks needed to make edits to the reveal.js source code.
